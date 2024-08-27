@@ -1,0 +1,20 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #242424;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: url("https://images.pexels.com/photos/1693362/pexels-photo-1693362.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #cccccc;
+  background-position-y: 30%;
+  backdrop-filter: contrast(0.5);
+}
